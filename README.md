@@ -34,7 +34,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Know-Your-Weight-On-Planets.git
+   git clone https://github.com/your-username/Know-Your-Weight-On-Planets-Mini-Project.git
 Open FindWeightOnPlanets.html in your browser.
 
 ⚠️ Make sure all .png and .mp4 assets are in the same directory as your HTML file.
@@ -60,7 +60,7 @@ Open FindWeightOnPlanets.html in your browser.
 ---
 
 📄 License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is open-source and free to use for educational and personal purposes.
 
 🙌 Acknowledgments
 NASA and planetary science resources for gravity data
